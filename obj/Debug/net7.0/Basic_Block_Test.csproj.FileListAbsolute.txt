@@ -1,0 +1,15 @@
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\bin\Debug\net7.0\Basic_Block_Test.exe
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\bin\Debug\net7.0\Basic_Block_Test.deps.json
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\bin\Debug\net7.0\Basic_Block_Test.runtimeconfig.json
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\bin\Debug\net7.0\Basic_Block_Test.dll
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\bin\Debug\net7.0\Basic_Block_Test.pdb
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\obj\Debug\net7.0\Basic_Block_Test.csproj.AssemblyReference.cache
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\obj\Debug\net7.0\Basic_Block_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\obj\Debug\net7.0\Basic_Block_Test.AssemblyInfoInputs.cache
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\obj\Debug\net7.0\Basic_Block_Test.AssemblyInfo.cs
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\obj\Debug\net7.0\Basic_Block_Test.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\obj\Debug\net7.0\Basic_Block_Test.dll
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\obj\Debug\net7.0\refint\Basic_Block_Test.dll
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\obj\Debug\net7.0\Basic_Block_Test.pdb
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\obj\Debug\net7.0\Basic_Block_Test.genruntimeconfig.cache
+C:\Users\Sergey\Documents\GB\GIT\C#Workshops\HW\Basic_Block_Test\obj\Debug\net7.0\ref\Basic_Block_Test.dll
